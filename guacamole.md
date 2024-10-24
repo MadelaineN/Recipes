@@ -5,6 +5,8 @@
 *lime
 *salt
 *coriander
+
+*Pepper
 *chili
 ## Instructions
 
