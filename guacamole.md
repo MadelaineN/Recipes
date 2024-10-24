@@ -2,8 +2,9 @@
 
 ## Ingridients
 *Avocado 
-*lemon
+*lime
 *salt
-
+*coriander
+*chili
 ## Instructions
 
