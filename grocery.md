@@ -2,3 +2,4 @@
 * lime
 * chili
 * tomato
+* salt
