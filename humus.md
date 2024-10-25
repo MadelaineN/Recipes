@@ -5,3 +5,4 @@
 * olive oil
 * salt
 * whiskey
+* strawbery jam
