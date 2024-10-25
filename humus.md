@@ -1,7 +1,7 @@
 # Hummus
 ## Ingredients
 * chickpeas
-* lemon
+* appelsin
 * olive oil
 * salt
 * whiskey
