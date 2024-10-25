@@ -1,2 +1,5 @@
+
 *.png
+# keep the final file
+!final.png  
 receipts/
