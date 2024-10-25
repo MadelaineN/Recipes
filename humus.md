@@ -3,7 +3,7 @@
 * chickpeas
 * lemon
 * olive oil
-* salt
+* peppar
 * whiskey
 * pinenuts
 
