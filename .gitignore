@@ -1,6 +1,6 @@
-
 *.png
 # keep the final file
 !final.png  
 receipts/
 !receipts/data
+.Rproj.user
